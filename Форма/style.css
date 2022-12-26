@@ -1,0 +1,61 @@
+body{
+    font-family: "Arial";
+    background:#6495ED;
+}
+.box{
+    margin: 40px auto auto auto;
+    border-radius: 10px;
+    width: 600px;
+    height: 700px;
+    background: #4169E1;
+}
+.h1{
+  font-weight: bold ;
+    padding-top: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.h3{
+  font-weight: normal;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+.type{
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 30%;
+    width: 40%;
+    height: 35px;
+}
+.button {
+    margin: 10px 10px 10px 140px;
+    font-size: 16px;
+    color: white;
+    height: 30px;
+    width: 30px;
+}
+
+.file {
+    width: 100%;
+    margin: 20px 10px 10px 175px;
+    color: white;
+    font-size: 15px;
+
+}
+.date {
+
+    width: 150px;
+    margin: 20px 10px 10px 220px;
+    color: black;
+    font-size: 15px;
+    height: 30px;
+
+}
+.val {
+  font-size: 17px;
+  color: white;
+  padding-left: 250px;
+}
